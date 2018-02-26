@@ -1,8 +1,5 @@
 space ice cream
 nerf darts
 telescope light shield
-<<<<<<< HEAD
-Changing this file in wish-list branch
-=======
-Changing old file
->>>>>>> major-list
+
+Changed via wish-list
