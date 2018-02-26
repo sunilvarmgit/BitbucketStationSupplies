@@ -1,5 +1,9 @@
 space ice cream
 nerf darts
 telescope light shield
+<<<<<<< HEAD
 
 Changed via wish-list
+=======
+Changing via major-list
+>>>>>>> major-list
