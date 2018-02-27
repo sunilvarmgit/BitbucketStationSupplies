@@ -3,4 +3,6 @@ Changes made by both major list and wish list
 
 Change 1 in master
 
+Change 2 in master
+
 Change 1 in wish list
